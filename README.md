@@ -4,7 +4,7 @@ Software Developer | Vienna, Austria 🇦🇹
 
 ## 🚀 About Me
 
-Full-stack developer at Stereum Services FlexCo.
+Software Developer at Stereum Services FlexCo.
 
 ## 💻 Tech Stack
 
