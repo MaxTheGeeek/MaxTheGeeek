@@ -31,8 +31,12 @@ Full-stack developer at Stereum Services FlexCo.
 [View App](https://stereum.net/dev/monitor) - Mobile monitoring application for blockchain nodes
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=MaxTheGeeek&show_icons=true&theme=dark&include_all_commits=true&custom_title=GitHub%20Stats%20(Since%202022))
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxTheGeeek&layout=compact&theme=dark)
+
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxTheGeeek&show_icons=true&theme=dark&include_all_commits=true&custom_title=GitHub%20Stats%20(Since%202022)"/>
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxTheGeeek&layout=compact&theme=dark"/>
+</div>
 
 ## 🌎 Languages
 - English
