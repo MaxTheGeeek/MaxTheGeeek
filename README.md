@@ -2,7 +2,7 @@
 Software Developer | Vienna, Austria 🇦🇹
 
 ## 🚀 About Me
-Full-stack developer at Stereum Services FlexCo specializing in web, mobile & desktop applications. Fluent in English, German, and Persian.
+Full-stack developer at Stereum Services FlexCo.
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
