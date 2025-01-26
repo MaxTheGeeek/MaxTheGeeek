@@ -34,13 +34,13 @@ Software Developer at Stereum Services FlexCo.
 
 ## 🏆 Featured Projects
 
-### Stereum Platform
+### Stereum Launcher
 [stereum.com](https://www.stereum.com) - Enterprise blockchain infrastructure management platform
 
-### Stereum Plus
+### StereumPlus
 [stereumplus.com](https://www.stereumplus.com) - Advanced blockchain monitoring & management tools
 
-### Rock Logic
+### RockLogic
 [rocklogic.at](https://www.rocklogic.at) - Digital solutions for modern businesses
 
 ### Stereum Monitor Mobile
@@ -50,7 +50,7 @@ Software Developer at Stereum Services FlexCo.
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxTheGeeek&show_icons=true&theme=dark&include_all_commits=true&custom_title=GitHub%20Stats%20(Since%202022)"/>
- <div></div>
+
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxTheGeeek&layout=compact&theme=dark"/>
 </div>
 
