@@ -34,17 +34,24 @@ Software Developer at Stereum Services FlexCo.
 
 ## 🏆 Featured Projects
 
-### Stereum Launcher
-[stereum.com](https://www.stereum.com) - Enterprise blockchain infrastructure management platform
+### Stereum Launcher  
+[stereum.com](https://www.stereum.com) - Enterprise blockchain infrastructure management platform  
 
-### StereumPlus
-[stereumplus.com](https://www.stereumplus.com) - Advanced blockchain monitoring & management tools
+### StereumPlus  
+[stereumplus.com](https://www.stereumplus.com) - Advanced blockchain monitoring & management tools  
 
-### RockLogic
-[rocklogic.at](https://www.rocklogic.at) - Digital solutions for modern businesses
+### RockLogic  
+[rocklogic.at](https://www.rocklogic.at) - Digital solutions for modern businesses  
 
-### Stereum Monitor Mobile
-[View App](https://stereum.net/dev/monitor) - Mobile monitoring application for blockchain nodes
+### IR Mall  
+[irmall.ir](https://irmall.ir) - A dedicated online shopping platform tailored for Persian users, offering a seamless and localized e-commerce experience.  
+
+### ChitChat  
+An internal video conferencing application for Aspira Co., similar to Zoom or Discord, is used for company meetings.  
+
+### Stereum Monitor Mobile  
+[View App](https://stereum.net/dev/monitor) - Mobile monitoring application for blockchain nodes  
+
 
 ## 📊 GitHub Stats
 
