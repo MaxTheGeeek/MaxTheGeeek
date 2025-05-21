@@ -47,6 +47,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxTheGeeek&theme=tokyonight&hide_border=true" />
 </p>
 
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaxTheGeeek&theme=tokyonight&hide_border=true" />
+  <br />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MaxTheGeeek&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 ## 🏆 Featured Projects
