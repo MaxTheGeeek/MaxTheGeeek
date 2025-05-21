@@ -1,6 +1,6 @@
 # Max Behzadi
 
-**Full-Stack Developer** | Vienna 🇦🇹  
+**Software Developer** | Vienna 🇦🇹  
 🚀 Building blockchain infrastructure & cloud-native tools at **Stereum Services FlexCo**
 
 ---
@@ -72,9 +72,12 @@
 
 - **[Stereum Launcher](https://www.stereum.com)** – Enterprise blockchain node orchestration  
 - **[StereumPlus](https://www.stereumplus.com)** – Monitoring + server insight tools  
+- **[Fungl](https://www.fungl.com)** – Staking vault for ETH + server insight tools 
 - **[IRMall](https://www.irmall.ir)** – Persian e-commerce platform  
 - **ChitChat** – Video conferencing app (internal)  
 - **[Stereum Monitor Mobile](https://stereum.net/dev/monitor)** – Mobile validator tracker  
+- **[Persian Score Mobile](#)** – 📱 Football livescore app 
+
 
 ---
 
@@ -90,7 +93,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.maxbehzadi.info)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-behzadi-1857b7193)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/maxiimummm)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MaxBhzd)
+
 
 ---
 
