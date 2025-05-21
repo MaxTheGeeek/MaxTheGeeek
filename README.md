@@ -37,12 +37,15 @@
 
 ## 📊 GitHub Stats
 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,dart,python&theme=dark" />
+</p>
+
 <p align="center">
   <!-- Summary stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxTheGeeek&theme=tokyonight" />
-  
-  <!-- Languages (customized: no HTML/CSS) -->
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,dart,python&theme=dark" />
+
 </p>
 
 ---
