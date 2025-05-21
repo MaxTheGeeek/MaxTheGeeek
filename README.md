@@ -1,51 +1,51 @@
 # Max Behzadi
 
-**Software Developer** | Vienna, Austria 🇦🇹  
-Working at **Stereum Services FlexCo** on blockchain infrastructure & enterprise tooling.
+**Full-Stack Developer** | Vienna 🇦🇹  
+Currently building advanced blockchain infra @ **Stereum Services FlexCo**  
+Always learning. Currently focused on: **AI**, **Machine Learning**, **Power BI**.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Full-stack developer building scalable blockchain & DevOps platforms
-- ⚙️ Tech enthusiast with a focus on modern web technologies
-- 🤖 Currently learning **AI**, **Machine Learning**, and **Power BI**
-- 🧠 Passionate about automation, cloud tooling, and clean UI/UX
-- 📍 Based in Vienna, working in global teams (EN, DE, FA)
+- ⚙️ Building scalable infrastructure, internal tooling & blockchain platforms
+- 🧠 Actively learning **AI**, **Machine Learning**, and **Power BI**
+- 🧪 Exploring UI frameworks & DevOps automation
+- 📍 Languages: 🇬🇧 English | 🇩🇪 German | 🇮🇷 Persian
 
 ---
 
 ## 💻 Tech Stack
 
-### Web
+### 🕸 Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Frameworks & Libraries
+### ⚛️ Frameworks & UI
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-339af0?style=flat-square&logo=mantine&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/ShadcnUI-%23000000.svg?style=flat-square)
 
-### Mobile & Backend
+### 📱 Mobile / Backend
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
 ## 🏆 Featured Projects
 
-- **[Stereum Launcher](https://www.stereum.com)** – Enterprise blockchain node management
-- **[StereumPlus](https://www.stereumplus.com)** – Advanced blockchain monitoring
-- **[RockLogic](https://www.rocklogic.at)** – Modern tech solutions for Austrian businesses
-- **[IRMall](https://www.irmall.ir)** – Persian e-commerce platform
-- **ChitChat** – Internal video conferencing app @Aspira Co
-- **[Stereum Monitor Mobile](https://stereum.net/dev/monitor)** – Mobile node monitoring
+- **[Stereum Launcher](https://www.stereum.com)** – Enterprise blockchain node orchestration
+- **[StereumPlus](https://www.stereumplus.com)** – Monitoring & server insights for validator setups
+- **[RockLogic](https://www.rocklogic.at)** – Web solutions for Austrian clients
+- **[IRMall](https://www.irmall.ir)** – Modern Persian e-commerce platform
+- **ChitChat** – Internal comms app like Zoom/Discord for Aspira
+- **[Stereum Monitor Mobile](https://stereum.net/dev/monitor)** – Real-time validator tracking
 
 ---
 
@@ -57,24 +57,21 @@ Working at **Stereum Services FlexCo** on blockchain infrastructure & enterprise
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxTheGeeek&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxTheGeeek&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxTheGeeek&theme=radical" />
 </p>
 
----
-
-## 🌎 Languages
-
-- 🇬🇧 English  
-- 🇩🇪 German  
-- 🇮🇷 Persian  
+<!-- Optional: GitHub Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MaxTheGeeek&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.maxbehzadi.info)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-behzadi-1857b7193)  
@@ -82,5 +79,4 @@ Working at **Stereum Services FlexCo** on blockchain infrastructure & enterprise
 
 ---
 
-_💡 Tip: You can fork this README to add auto-generated blog posts, GitHub calendar heatmaps, or AI-generated portfolio insights._
-
+> 💬 _“Learning never exhausts the mind.” – Leonardo da Vinci_
