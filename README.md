@@ -98,4 +98,4 @@
 
 ---
 
-> “In a world of constant change, the learners shall inherit the earth.” – Eric Hoffer
+“In a world of constant change, the learners shall inherit the earth.” – Eric Hoffer
