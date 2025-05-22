@@ -14,6 +14,10 @@
 ---
 
 ## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,dart,python&theme=dark" />
+</p>
+
 
 ### Web & UI
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -44,10 +48,6 @@
 
 ## 📊 GitHub Stats
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,dart,python&theme=dark" />
-</p>
 
 <p align="center">
   <!-- Summary stats -->
