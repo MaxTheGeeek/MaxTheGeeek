@@ -83,7 +83,8 @@
 - **[IRMall](https://www.irmall.ir)** – Persian e-commerce platform  
 - **ChitChat** – Video conferencing app (internal)  
 - **[Stereum Monitor Mobile](https://stereum.net/dev/monitor)** – Mobile validator tracker  
-- **[Persian Score Mobile](#)** – 📱 Football livescore app 
+- **[Persian Score Mobile](#)** – 📱 Football livescore app
+- - **[Persian Score Web App](#)** – 📱 Football livescore platform 
 
 
 ---
