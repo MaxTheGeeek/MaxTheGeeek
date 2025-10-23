@@ -3,7 +3,7 @@
 **Software Developer** | Vienna 🇦🇹  
 🚀 Building blockchain infrastructure & cloud-native tools at **Stereum Services FlexCo**
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -11,7 +11,7 @@
 - 🤖 Learning: **AI**, **Machine Learning**, **Power BI**  
 - 🧠 Passionate about clean code, performance-first UI, and modern DevOps  
 
----
+
 
 ## 🧰 Tech Stack
 <p align="center">
@@ -45,7 +45,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -56,7 +56,7 @@
 
 </p>
 
----
+
 
 ## 📈 Contributions & Highlights
 
@@ -66,7 +66,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaxTheGeeek&theme=tokyonight" />
 </p>
 
----
+
 
 
 ## 🌐 Featured Projects
@@ -78,10 +78,10 @@
 - **ChitChat** – Video conferencing app (internal)  
 - **[Stereum Monitor Mobile](https://stereum.net/dev/monitor)** – Mobile validator tracker  
 - **[Persian Score Mobile](#)** – 📱 Football livescore app
-- - **[Persian Score Web App](#)** – 📱 Football livescore platform 
+- **[Persian Score Web App](#)** – 📱 Football livescore platform 
 
 
----
+
 
 ## 🌎 Languages
 
@@ -89,15 +89,15 @@
 - 🇩🇪 German  
 - 🇮🇷 Persian  
 
----
+
 
 ## 🔗 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.maxbehzadi.info)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.maxbehzadi.online)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-behzadi-1857b7193)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MaxBhzd)
 
 
----
+
 
 
