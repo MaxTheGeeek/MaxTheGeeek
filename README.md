@@ -31,7 +31,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 ### 🌐 Cloud Platform & Deployment Stack
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
@@ -71,8 +71,9 @@
 
 ## 🌐 Featured Projects
 
-- **[Stereum Launcher](https://www.stereum.com)** – Enterprise blockchain node orchestration  
+- **[StereumLabs](https://www.stereumlabs.com)** – Independent Ethereum Client Analytics
 - **[StereumPlus](https://www.stereumplus.com)** – Monitoring + server insight tools  
+- **[Stereum Launcher](https://www.stereum.com)** – Enterprise blockchain node orchestration  
 - **[Fungl](https://www.fungl.com)** – Staking vault for ETH + server insight tools 
 - **[IRMall](https://www.irmall.ir)** – Persian e-commerce platform  
 - **ChitChat** – Video conferencing app (internal)  
