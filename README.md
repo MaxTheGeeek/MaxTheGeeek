@@ -18,7 +18,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,vue,nuxt,flutter,reactnative,nodejs,nestjs,tailwindcss,supabase,firebase,aws,vercel,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,flutter,reactnative,nestjs,aws,docker&theme=dark" />
 </p>
 
 <hr style="border:0.5px solid #333; margin: 20px 0;" />
