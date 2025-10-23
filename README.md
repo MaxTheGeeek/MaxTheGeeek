@@ -41,8 +41,9 @@
 
 
 ### Mobile
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 
 ---
 
@@ -67,13 +68,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaxTheGeeek&theme=gruvbox&no-frame=true&margin-w=10&column=8" />
-</p>
-
----
 
 ## 🌐 Featured Projects
 
