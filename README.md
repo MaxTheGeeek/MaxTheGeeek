@@ -1,7 +1,7 @@
 # Max Behzadi
 
-**Software Developer** | Vienna 🇦🇹  
-🚀 Building blockchain infrastructure & cloud-native tools at **Stereum Services FlexCo**
+**Full-Stack Developer** | Vienna 🇦🇹  
+🚀 Building blockchain infrastructure & cloud-native tools at **Rocklogic GmbH**
 
 
 
@@ -26,13 +26,16 @@
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/ShadcnUI-%23000000.svg?style=flat-square)
 
+
+
 ### Frameworks & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 
 
 ### 🌐 Cloud Platform & Deployment Stack
