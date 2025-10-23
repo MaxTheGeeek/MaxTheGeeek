@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Max Behzadi</h1>
 <p align="center">
-  <b>Full-Stack Developer | Blockchain Infrastructure | Cloud-Native Architect</b><br/>
+  <b>Full-Stack Developer | Scalable Web & Mobile Applications</b><br/>
   📍 Vienna, Austria 🇦🇹  •  🚀 Building the future of blockchain at <b>Rocklogic GmbH</b>
 </p>
 
@@ -30,7 +30,7 @@
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/ShadcnUI-000000?style=flat-square)
 
-<hr style="border:0.5px solid #333; margin: 20px 0;" />
+<hr style="border:0.2px solid #333; margin: 20px 0;" />
 
 ### ⚙️ Frameworks & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -40,7 +40,7 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-<hr style="border:0.5px solid #333; margin: 20px 0;" />
+<hr style="border:0.2px solid #333; margin: 20px 0;" />
 
 ### ☁️ Cloud & Deployment
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
@@ -48,13 +48,13 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 [![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
 
-<hr style="border:0.5px solid #333; margin: 20px 0;" />
+<hr style="border:0.2px solid #333; margin: 20px 0;" />
 
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<hr style="border:0.5px solid #333; margin: 20px 0;" />
+<hr style="border:0.2px solid #333; margin: 20px 0;" />
 
 ## 📊 GitHub Stats
 
@@ -65,7 +65,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaxTheGeeek&theme=tokyonight&utcOffset=2" />
 </p>
 
-<hr style="border:0.5px solid #333; margin: 20px 0;" />
+<hr style="border:0.2px solid #333; margin: 20px 0;" />
 
 ## 🚀 Featured Projects
 
@@ -80,12 +80,12 @@
 | [**Persian Score**](#) | ⚽ Football live-score app (Mobile & Web) |
 | ChitChat | Internal video-conferencing app |
 
-<hr style="border:0.5px solid #333; margin: 20px 0;" />
+<hr style="border:0.2px solid #333; margin: 20px 0;" />
 
 ## 🌍 Languages
 🇬🇧 English  🇩🇪 German  🇮🇷 Persian  
 
-<hr style="border:0.5px solid #333; margin: 20px 0;" />
+<hr style="border:0.2px solid #333; margin: 20px 0;" />
 
 ## 🔗 Connect with Me
 
