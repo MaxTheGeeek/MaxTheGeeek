@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Max Behzadi</h1>
 
-<h3 align="center">Full-Stack Developer | Blockchain & Web Specialist</h3>
+<h3 align="center">Full-Stack Developer | Frontend & Web Specialist</h3>
 
 <p align="center">
 📍 Vienna, Austria 🇦🇹 • 🚀 Building innovative solutions at <strong>Rocklogic GmbH</strong>
