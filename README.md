@@ -17,7 +17,7 @@
 ## 🎯 About Me
 
 - 🔧 Currently building **scalable, high-performance web applications** with modern technologies
-- 🤖 Exploring **AI & Machine Learning**, **Power BI**, and **Serverless Computing**
+- ☁️ Exploring **Cloud Architecture**, **Serverless Computing**, and **Distributed Systems**
 - 💡 Passionate about **clean architecture**, **performance-first UI**, and **modern DevOps pipelines**
 - 💬 Open to collaboration on **open-source**, **cloud**, and **blockchain** projects
 
@@ -67,66 +67,88 @@
 
 ## 🚀 Featured Projects
 
+### 🎥 [FindDev](https://finddev.dev) ![MVP](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square)
+**Video-first developer recruitment platform** - Innovative marketplace connecting talented developers with recruiters through authentic video portfolios and skills showcases.  
+`Angular` `C#/.NET`
+
+### ⚡ [MotionFlow](https://motionflow.xyz) ![MVP](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square)
+**Serverless data platform** - High-performance user analytics and data management solution with scalable microservices architecture.  
+`Next.js` `Shadcn UI` `TypeScript` `Go`
+
 ### 🤖 [CVPilot](https://cover-letter.work)
-**AI-driven cover letter generator** - Streamlined SaaS platform for creating personalized, professional cover letters with intelligent AI assistance.  
-`Next.js` `Shadcn UI` `TypeScript`
+**AI-powered cover letter generator** - Intelligent SaaS platform delivering personalized, professional cover letters through advanced AI assistance.  
+`Next.js` `Shadcn UI` `TypeScript` `C#/.NET`
 
-### ⚡ [MotionFlow](https://motionflow.xyz)
-**Serverless data platform** - Real-time user analytics and data management with scalable microservices architecture.  
-`Next.js` `Go` `Serverless`
-
-### 🎥 [FindDev](https://finddev.dev)
-**Video-first recruitment platform** - Revolutionary marketplace connecting developers with recruiters through authentic video portfolios.  
-`Angular` `C#/.NET` `Azure`
+### 🌐 [Rocklogic Homepage](https://rocklogic.at)
+**Corporate website** - Modern, content-driven company website with seamless CMS integration and optimized performance.  
+`Next.js` `TypeScript` `Mantine` `Contentful`
 
 ### 🔗 [StereumLabs](https://www.stereumlabs.com)
-**Ethereum client analytics** - Independent monitoring and performance analytics for Ethereum clients with real-time insights.  
-`Vue.js` `Node.js` `Blockchain`
+**Ethereum client analytics** - Comprehensive monitoring and performance analytics platform for Ethereum clients with real-time insights.  
+`Next.js` `Mantine` `TypeScript` `NestJS`
+
+### 🔐 StereumLabs Admin Dashboard
+**Internal management console** - Powerful administrative dashboard for managing Ethereum client analytics and user operations.  
+`React` `NestJS` `Ant Design`
+
+### 🎮 [Stereum.com](https://www.stereum.com)
+**Blockchain node deployment** - Enterprise-grade platform for simplified blockchain node orchestration and infrastructure management.  
+`Next.js` `TypeScript` `Mantine`
 
 ### 📊 [StereumPlus](https://www.stereumplus.com)
-**Server monitoring platform** - Enterprise-grade server monitoring with actionable insights and intelligent alerting.  
-`Next.js` `NestJS` `Docker`
+**Server monitoring platform** - Enterprise monitoring solution delivering actionable insights with intelligent alerting and performance tracking.  
+`Next.js` `Mantine` `NestJS`
 
-### 🎮 [Stereum Launcher](https://www.stereum.com)
-**Blockchain node orchestration** - Simplified deployment and management tool for enterprise blockchain infrastructure.  
-`Vue.js` `Node.js` `Kubernetes`
+### 🛠️ StereumPlus Admin Dashboard
+**Internal operations panel** - Advanced administrative interface for managing monitoring services, users, and system configurations.  
+`React` `Ant Design` `NestJS`
 
 ### 💎 [Fungl](https://www.fungl.com)
-**ETH staking vault** - Secure Ethereum staking platform with integrated server intelligence and monitoring.  
-`React` `NestJS` `Web3`
+**Ethereum staking vault** - Secure and user-friendly ETH staking platform with integrated monitoring and analytics.  
+`Next.js` `Shadcn UI`
+
+### 📱 Stereum Monitor App
+**Mobile monitoring solution** - Cross-platform application for real-time monitoring of Stereum Launcher nodes and server resources on the go.  
+`Flutter` `Dart`
+
+### 💻 Stereum Launcher
+**Desktop blockchain manager** - Decentralized application for seamless Ethereum node deployment and management via intuitive desktop interface.  
+`Vue.js` `Node.js` `Electron.js` `Socket.io`
+
+### ⚽ [Persian Score](https://persianscore.com)
+**Live football scores** - Real-time sports platform delivering instant match updates, statistics, and comprehensive football coverage.  
+`Next.js` `Shadcn UI` `Supabase`
 
 ### 🛒 [IRMall](https://www.irmall.ir)
-**Persian e-commerce platform** - Full-featured marketplace serving the Persian-speaking community with localized solutions.  
-`Vue.js` `Node.js` `PostgreSQL`
-
-### 📱 [Stereum Monitor Mobile](https://stereum.net/dev/monitor)
-**Validator tracking app** - Mobile application for Ethereum validator performance monitoring on the go.  
-`React Native` `Firebase`
-
-### ⚽ Persian Score
-**Live football scores** - Cross-platform application delivering real-time football scores and statistics.  
-`Flutter` `React` `Firebase`
+**Persian e-commerce marketplace** - Feature-rich online shopping platform serving the Persian-speaking community with localized commerce solutions.  
+`React` `CSS` `Node.js`
 
 ### 💬 ChitChat
-**Video conferencing solution** - Internal real-time video conferencing application for seamless team collaboration.  
+**Video conferencing solution** - Real-time internal communication platform enabling seamless team collaboration through video conferencing.  
 `WebRTC` `Node.js` `Socket.io`
+
+### 🏠 HomA
+**Home automation platform** - Smart home management system for controlling and monitoring connected devices and home automation workflows.  
+`JavaScript` `Bootstrap` `PHP Laravel`
+
+### 🍽️ TastyDay ![MVP](https://img.shields.io/badge/MVP-Completed-green?style=flat-square)
+**Diet food delivery platform** - Health-focused meal ordering and delivery service connecting users with nutritious, chef-prepared meals.  
+`jQuery` `CSS` `JavaScript`
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxTheGeeek&theme=tokyonight" alt="Profile Details"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MaxTheGeeek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MaxTheGeeek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxTheGeeek&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxTheGeeek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaxTheGeeek&theme=tokyonight" alt="Top Languages"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaxTheGeeek&theme=tokyonight&utcOffset=2" alt="Productive Time"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxTheGeeek&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
