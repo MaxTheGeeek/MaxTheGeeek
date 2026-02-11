@@ -194,19 +194,6 @@
 
 </div>
 
-### 💻 Technology Distribution
-
-<div align="center">
-
-| Language/Framework | Usage | Projects |
-|:------------------:|:-----:|:--------:|
-| TypeScript/JavaScript | 50% | 30+ projects |
-| React/Next.js | 40% | 25+ projects |
-| C#/.NET | 20% | 10+ projects |
-| Go | 15% | 5+ projects |
-| Vue.js/Nuxt.js | 10% | 8+ projects |
-
-</div>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaxTheGeeek&theme=tokyonight&utcOffset=1" alt="Productive Time" />
