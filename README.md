@@ -66,6 +66,32 @@
 
 ---
 
+### 💻 Technology Expertise
+
+<div align="center">
+
+**Frontend Development** (70% of work)
+
+| Technology | Proficiency | Projects | Commits |
+|:-----------|:------------|:--------:|:-------:|
+| TypeScript/JavaScript | ![](https://progress-bar.dev/95/?title=Expert&width=120&color=007ACC) | 30+ | 1,750+ |
+| React/Next.js | ![](https://progress-bar.dev/95/?title=Expert&width=120&color=61DAFB) | 25+ | 1,400+ |
+| Vue/Nuxt | ![](https://progress-bar.dev/85/?title=Advanced&width=120&color=4FC08D) | 8+ | 350+ |
+| Angular | ![](https://progress-bar.dev/70/?title=Proficient&width=120&color=DD0031) | 3+ | 200+ |
+
+**Backend Development** (30% of work)
+
+| Technology | Proficiency | Projects | Commits |
+|:-----------|:------------|:--------:|:-------:|
+| Node.js/NestJS | ![](https://progress-bar.dev/90/?title=Expert&width=120&color=339933) | 15+ | 800+ |
+| C#/.NET | ![](https://progress-bar.dev/85/?title=Advanced&width=120&color=512BD4) | 10+ | 700+ |
+| Go/Gin | ![](https://progress-bar.dev/80/?title=Advanced&width=120&color=00ADD8) | 5+ | 500+ |
+
+</div>
+
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎥 [FindDev](https://finddev.dev) ![MVP](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square)
@@ -203,32 +229,10 @@
 | ⭐ **GitHub Stars** | 150+ | Community recognition |
 | 👥 **Team Projects** | 20+ | Collaborative work |
 
-### 💻 Technology Expertise
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-**Frontend** (70% of work)
-- TypeScript/JavaScript: 2,000+ commits
-- React/Next.js: 25+ projects
-- Vue/Nuxt: 8+ projects
-- Angular: 3+ projects
-
-</td>
-<td width="50%" align="center">
-
-**Backend** (30% of work)
-- C#/.NET: 10+ projects
-- Node.js/NestJS: 15+ projects
-- Go/Gin: 5+ projects
-- APIs & Microservices
-
-</td>
-</tr>
-</table>
 
 </div>
+
+--- 
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxTheGeeek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
