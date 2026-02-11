@@ -155,6 +155,54 @@
 
 ---
 
+## 📊 Professional Analytics
+
+<p align="center">
+
+### 🎯 Career Overview (2019 - Present)
+
+| Metric | Count | Details |
+|:------:|:-----:|:--------|
+| 📅 **Years Coding** | 6+ | Since 2019 |
+| 💼 **Projects Delivered** | 50+ | Personal + Professional |
+| 🚀 **Total Commits** | 3,500+ | Across all repositories |
+| 🏢 **Production Apps** | 15+ | Live and maintained |
+| ⭐ **GitHub Stars** | 150+ | Community recognition |
+| 👥 **Team Projects** | 20+ | Collaborative work |
+
+### 💻 Technology Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+**Frontend** (70% of work)
+- TypeScript/JavaScript: 2,000+ commits
+- React/Next.js: 25+ projects
+- Vue/Nuxt: 8+ projects
+- Angular: 3+ projects
+
+</td>
+<td width="50%">
+
+**Backend** (30% of work)
+- C#/.NET: 10+ projects
+- Node.js/NestJS: 15+ projects
+- Go/Gin: 5+ projects
+- APIs & Microservices
+
+</td>
+</tr>
+</table>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxTheGeeek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🌍 Languages
 
 🇬🇧 **English** - Fluent  
