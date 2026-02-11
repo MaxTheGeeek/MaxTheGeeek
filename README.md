@@ -91,77 +91,204 @@
 
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🎥 [FindDev](https://finddev.dev) ![MVP](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square)
-**Video-first developer recruitment platform** - Innovative marketplace connecting talented developers with recruiters through authentic video portfolios and skills showcases.  
-`Angular` `C#/.NET`
+<div align="center">
 
-### ⚡ [MotionFlow](https://motionflow.xyz) ![MVP](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square)
-**Serverless data platform** - High-performance user analytics and data management solution with scalable microservices architecture.  
-`Next.js` `Shadcn UI` `TypeScript` `Go`
+### 🎯 Current Projects
 
-### 🤖 [CVPilot](https://cover-letter.work)
-**AI-powered cover letter generator** - Intelligent SaaS platform delivering personalized, professional cover letters through advanced AI assistance.  
-`Next.js` `Shadcn UI` `TypeScript` `C#/.NET`
+<table>
+<tr>
+<td width="50%">
 
-### 🌐 [Rocklogic Homepage](https://rocklogic.at)
-**Corporate website** - Modern, content-driven company website with seamless CMS integration and optimized performance.  
-`Next.js` `TypeScript` `Mantine` `Contentful`
+#### 🎥 [FindDev](https://finddev.dev)
+![MVP](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square)
 
-### 🔗 [StereumLabs](https://www.stereumlabs.com)
-**Ethereum client analytics** - Comprehensive monitoring and performance analytics platform for Ethereum clients with real-time insights.  
-`Next.js` `Mantine` `TypeScript` `NestJS`
+Video-first developer recruitment marketplace
 
-### 🔐 StereumLabs Admin Dashboard
-**Internal management console** - Powerful administrative dashboard for managing Ethereum client analytics and user operations.  
-`React` `NestJS` `Ant Design`
+**Tech:** `Angular` `C#/.NET`
 
-### 🎮 [Stereum.com](https://www.stereum.com)
-**Blockchain node deployment** - Enterprise-grade platform for simplified blockchain node orchestration and infrastructure management.  
-`Next.js` `TypeScript` `Mantine`
+</td>
+<td width="50%">
 
-### 📊 [StereumPlus](https://www.stereumplus.com)
-**Server monitoring platform** - Enterprise monitoring solution delivering actionable insights with intelligent alerting and performance tracking.  
-`Next.js` `Mantine` `NestJS`
+#### ⚡ [MotionFlow](https://motionflow.xyz)
+![MVP](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square)
 
-### 🛠️ StereumPlus Admin Dashboard
-**Internal operations panel** - Advanced administrative interface for managing monitoring services, users, and system configurations.  
-`React` `Ant Design` `NestJS`
+Serverless analytics & data platform
 
-### 💎 [Fungl](https://www.fungl.com)
-**Ethereum staking vault** - Secure and user-friendly ETH staking platform with integrated monitoring and analytics.  
-`Next.js` `Shadcn UI`
+**Tech:** `Next.js` `TypeScript` `Go`
 
-### 📱 Stereum Monitor App
-**Mobile monitoring solution** - Cross-platform application for real-time monitoring of Stereum Launcher nodes and server resources on the go.  
-`Flutter` `Dart`
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 💻 Stereum Launcher
-**Desktop blockchain manager** - Decentralized application for seamless Ethereum node deployment and management via intuitive desktop interface.  
-`Vue.js` `Node.js` `Electron.js` `Socket.io`
+#### 🤖 [CVPilot](https://cover-letter.work)
 
-### ⚽ [Persian Score](https://persianscore.com)
-**Live football scores** - Real-time sports platform delivering instant match updates, statistics, and comprehensive football coverage.  
-`Next.js` `Shadcn UI` `Supabase`
+AI-powered cover letter generator
 
-### 🛒 [IRMall](https://www.irmall.ir)
-**Persian e-commerce marketplace** - Feature-rich online shopping platform serving the Persian-speaking community with localized commerce solutions.  
-`React` `CSS` `Node.js`
+**Tech:** `Next.js` `TypeScript` `C#/.NET`
 
-### 💬 ChitChat
-**Video conferencing solution** - Real-time internal communication platform enabling seamless team collaboration through video conferencing.  
-`WebRTC` `Node.js` `Socket.io`
+</td>
+<td width="50%">
 
-### 🏠 HomA
-**Home automation platform** - Smart home management system for controlling and monitoring connected devices and home automation workflows.  
-`JavaScript` `Bootstrap` `PHP Laravel`
+#### 🌐 [Rocklogic](https://rocklogic.at)
 
-### 🍽️ TastyDay ![MVP](https://img.shields.io/badge/MVP-Completed-green?style=flat-square)
-**Diet food delivery platform** - Health-focused meal ordering and delivery service connecting users with nutritious, chef-prepared meals.  
-`jQuery` `CSS` `JavaScript`
+Corporate website with CMS
 
+**Tech:** `Next.js` `Mantine` `Contentful`
+
+</td>
+</tr>
+</table>
+
+### ⛓️ Blockchain & Infrastructure
+
+<table>
+<tr>
+<td width="33%">
+
+#### 🔗 [StereumLabs](https://www.stereumlabs.com)
+
+Ethereum client analytics
+
+**Tech:** `Next.js` `NestJS`
+
+</td>
+<td width="33%">
+
+#### 🎮 [Stereum](https://www.stereum.com)
+
+Blockchain node deployment
+
+**Tech:** `Next.js` `Mantine`
+
+</td>
+<td width="33%">
+
+#### 💎 [Fungl](https://www.fungl.com)
+
+ETH staking vault
+
+**Tech:** `Next.js` `Shadcn UI`
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 📊 [StereumPlus](https://www.stereumplus.com)
+
+Server monitoring platform
+
+**Tech:** `Next.js` `NestJS`
+
+</td>
+<td width="33%">
+
+#### 💻 Stereum Launcher
+
+Desktop blockchain manager
+
+**Tech:** `Vue.js` `Electron.js`
+
+</td>
+<td width="33%">
+
+#### 📱 Stereum Monitor
+
+Mobile monitoring app
+
+**Tech:** `Flutter` `Dart`
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Internal Dashboards
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔐 StereumLabs Admin
+
+Ethereum analytics management console
+
+**Tech:** `React` `NestJS` `Ant Design`
+
+</td>
+<td width="50%">
+
+#### 🛠️ StereumPlus Admin
+
+Operations & monitoring panel
+
+**Tech:** `React` `NestJS` `Ant Design`
+
+</td>
+</tr>
+</table>
+
+### 🌍 Consumer Applications
+
+<table>
+<tr>
+<td width="33%">
+
+#### ⚽ [Persian Score](https://persianscore.com)
+
+Live football scores
+
+**Tech:** `Next.js` `Supabase`
+
+</td>
+<td width="33%">
+
+#### 🛒 [IRMall](https://www.irmall.ir)
+
+Persian e-commerce
+
+**Tech:** `React` `Node.js`
+
+</td>
+<td width="33%">
+
+#### 💬 ChitChat
+
+Video conferencing
+
+**Tech:** `WebRTC` `Socket.io`
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 🏠 HomA
+
+Home automation
+
+**Tech:** `JavaScript` `Laravel`
+
+</td>
+<td width="33%">
+
+#### 🍽️ TastyDay
+![MVP](https://img.shields.io/badge/MVP-Completed-green?style=flat-square)
+
+Diet food delivery
+
+**Tech:** `jQuery` `JavaScript`
+
+</td>
+<td width="33%">
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ## 📊 GitHub Analytics
