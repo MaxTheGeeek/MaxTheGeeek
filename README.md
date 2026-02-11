@@ -141,13 +141,46 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxTheGeeek&theme=tokyonight" alt="Profile Summary" />
+<img src="https://img.shields.io/badge/GitHub_Since-2019-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Since" />
+<img src="https://img.shields.io/badge/Total_Repos-50+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Total Repos" />
+<img src="https://img.shields.io/badge/Total_Commits-2000+-00ADD8?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
+<img src="https://img.shields.io/badge/Stars_Earned-100+-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
 </p>
 
+### 💻 Most Used Languages
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxTheGeeek&theme=tokyonight" alt="Stats" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaxTheGeeek&theme=tokyonight" alt="Top Languages" />
+<img src="https://img.shields.io/badge/TypeScript-45%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%23-15%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Go-10%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
+
+
+---
+
+## 📊 GitHub & Career Analytics
+
+<div align="center">
+
+| ⏱️ **Coding Since** | 💼 **Total Projects** | 🚀 **Commits** | ⭐ **Stars Earned** |
+|:-------------------:|:---------------------:|:--------------:|:-------------------:|
+| **2019**<br/><sub>6+ Years</sub> | **50+**<br/><sub>Public & Private</sub> | **3,500+**<br/><sub>Personal + Professional</sub> | **150+**<br/><sub>Across Repositories</sub> |
+
+</div>
+
+### 💻 Technology Distribution
+
+<div align="center">
+
+| Language/Framework | Usage | Projects |
+|:------------------:|:-----:|:--------:|
+| TypeScript/JavaScript | 50% | 30+ projects |
+| React/Next.js | 40% | 25+ projects |
+| C#/.NET | 20% | 10+ projects |
+| Go | 15% | 5+ projects |
+| Vue.js/Nuxt.js | 10% | 8+ projects |
+
+</div>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaxTheGeeek&theme=tokyonight&utcOffset=1" alt="Productive Time" />
@@ -157,12 +190,12 @@
 
 ## 📊 Professional Analytics
 
-<p align="center">
+<div align="center">
 
 ### 🎯 Career Overview (2019 - Present)
 
 | Metric | Count | Details |
-|:------:|:-----:|:--------|
+|:------:|:-----:|:-------:|
 | 📅 **Years Coding** | 6+ | Since 2019 |
 | 💼 **Projects Delivered** | 50+ | Personal + Professional |
 | 🚀 **Total Commits** | 3,500+ | Across all repositories |
@@ -172,9 +205,9 @@
 
 ### 💻 Technology Expertise
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 **Frontend** (70% of work)
 - TypeScript/JavaScript: 2,000+ commits
@@ -183,7 +216,7 @@
 - Angular: 3+ projects
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 **Backend** (30% of work)
 - C#/.NET: 10+ projects
@@ -195,7 +228,7 @@
 </tr>
 </table>
 
-</p>
+</div>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxTheGeeek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
