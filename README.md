@@ -19,7 +19,7 @@
 - 🔧 Currently building **scalable, high-performance web applications** with modern technologies
 - ☁️ Exploring **Cloud Architecture**, **Serverless Computing**, and **Distributed Systems**
 - 💡 Passionate about **clean architecture**, **performance-first UI**, and **modern DevOps pipelines**
-- 💬 Open to collaboration on **open-source**, **cloud**, and **blockchain** projects
+- 💬 Open to collaboration on **open-source**, **cloud**, and **Web Applications** projects
 
 ---
 
@@ -49,6 +49,7 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 📱 Mobile Development
 
