@@ -91,204 +91,33 @@
 
 
 ---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-### 🎯 Current Projects
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎥 [FindDev](https://finddev.dev)
-![MVP](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square)
-
-Video-first developer recruitment marketplace
-
-**Tech:** `Angular` `C#/.NET`
-
-</td>
-<td width="50%">
-
-#### ⚡ [MotionFlow](https://motionflow.xyz)
-![MVP](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square)
-
-Serverless analytics & data platform
-
-**Tech:** `Next.js` `TypeScript` `Go`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🤖 [CVPilot](https://cover-letter.work)
-
-AI-powered cover letter generator
-
-**Tech:** `Next.js` `TypeScript` `C#/.NET`
-
-</td>
-<td width="50%">
-
-#### 🌐 [Rocklogic](https://rocklogic.at)
-
-Corporate website with CMS
-
-**Tech:** `Next.js` `Mantine` `Contentful`
-
-</td>
-</tr>
-</table>
-
-### ⛓️ Blockchain & Infrastructure
-
-<table>
-<tr>
-<td width="33%">
-
-#### 🔗 [StereumLabs](https://www.stereumlabs.com)
-
-Ethereum client analytics
-
-**Tech:** `Next.js` `NestJS`
-
-</td>
-<td width="33%">
-
-#### 🎮 [Stereum](https://www.stereum.com)
-
-Blockchain node deployment
-
-**Tech:** `Next.js` `Mantine`
-
-</td>
-<td width="33%">
-
-#### 💎 [Fungl](https://www.fungl.com)
-
-ETH staking vault
-
-**Tech:** `Next.js` `Shadcn UI`
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-
-#### 📊 [StereumPlus](https://www.stereumplus.com)
-
-Server monitoring platform
-
-**Tech:** `Next.js` `NestJS`
-
-</td>
-<td width="33%">
-
-#### 💻 Stereum Launcher
-
-Desktop blockchain manager
-
-**Tech:** `Vue.js` `Electron.js`
-
-</td>
-<td width="33%">
-
-#### 📱 Stereum Monitor
-
-Mobile monitoring app
-
-**Tech:** `Flutter` `Dart`
-
-</td>
-</tr>
-</table>
-
-### 🛠️ Internal Dashboards
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🔐 StereumLabs Admin
-
-Ethereum analytics management console
-
-**Tech:** `React` `NestJS` `Ant Design`
-
-</td>
-<td width="50%">
-
-#### 🛠️ StereumPlus Admin
-
-Operations & monitoring panel
-
-**Tech:** `React` `NestJS` `Ant Design`
-
-</td>
-</tr>
-</table>
-
-### 🌍 Consumer Applications
-
-<table>
-<tr>
-<td width="33%">
-
-#### ⚽ [Persian Score](https://persianscore.com)
-
-Live football scores
-
-**Tech:** `Next.js` `Supabase`
-
-</td>
-<td width="33%">
-
-#### 🛒 [IRMall](https://www.irmall.ir)
-
-Persian e-commerce
-
-**Tech:** `React` `Node.js`
-
-</td>
-<td width="33%">
-
-#### 💬 ChitChat
-
-Video conferencing
-
-**Tech:** `WebRTC` `Socket.io`
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-
-#### 🏠 HomA
-
-Home automation
-
-**Tech:** `JavaScript` `Laravel`
-
-</td>
-<td width="33%">
-
-#### 🍽️ TastyDay
-![MVP](https://img.shields.io/badge/MVP-Completed-green?style=flat-square)
-
-Diet food delivery
-
-**Tech:** `jQuery` `JavaScript`
-
-</td>
-<td width="33%">
-
-</td>
-</tr>
-</table>
+| Project | Description | Technologies | Status |
+|:--------|:------------|:-------------|:------:|
+| 🎥 **[FindDev](https://finddev.dev)** | Video-first developer recruitment marketplace | `Angular` `C#/.NET` | ![](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square) |
+| ⚡ **[MotionFlow](https://motionflow.xyz)** | Serverless analytics & data platform | `Next.js` `TypeScript` `Go` | ![](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square) |
+| 🤖 **[CVPilot](https://cover-letter.work)** | AI-powered cover letter generator | `Next.js` `TypeScript` `C#/.NET` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
+| 🌐 **[Rocklogic](https://rocklogic.at)** | Corporate website with CMS integration | `Next.js` `Mantine` `Contentful` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
+| 🔗 **[StereumLabs](https://www.stereumlabs.com)** | Ethereum client analytics platform | `Next.js` `TypeScript` `NestJS` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
+| 🎮 **[Stereum](https://www.stereum.com)** | Blockchain node deployment platform | `Next.js` `TypeScript` `Mantine` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
+| 📊 **[StereumPlus](https://www.stereumplus.com)** | Enterprise server monitoring solution | `Next.js` `Mantine` `NestJS` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
+| 💎 **[Fungl](https://www.fungl.com)** | Secure Ethereum staking vault | `Next.js` `Shadcn UI` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
+| 💻 **Stereum Launcher** | Desktop blockchain node manager | `Vue.js` `Electron.js` `Socket.io` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
+| 📱 **Stereum Monitor** | Mobile monitoring application | `Flutter` `Dart` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
+| 🔐 **StereumLabs Admin** | Analytics management dashboard | `React` `NestJS` `Ant Design` | ![](https://img.shields.io/badge/Internal-Tool-blue?style=flat-square) |
+| 🛠️ **StereumPlus Admin** | Operations control panel | `React` `NestJS` `Ant Design` | ![](https://img.shields.io/badge/Internal-Tool-blue?style=flat-square) |
+| ⚽ **[Persian Score](https://persianscore.com)** | Live football scores & statistics | `Next.js` `Shadcn UI` `Supabase` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
+| 🛒 **[IRMall](https://www.irmall.ir)** | Persian e-commerce marketplace | `React` `Node.js` `CSS` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
+| 💬 **ChitChat** | Real-time video conferencing | `WebRTC` `Node.js` `Socket.io` | ![](https://img.shields.io/badge/Internal-Tool-blue?style=flat-square) |
+| 🏠 **HomA** | Smart home automation system | `JavaScript` `Bootstrap` `Laravel` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
+| 🍽️ **TastyDay** | Diet food delivery platform | `jQuery` `JavaScript` `CSS` | ![](https://img.shields.io/badge/MVP-Completed-green?style=flat-square) |
 
 </div>
+
 ---
 
 ## 📊 GitHub Analytics
