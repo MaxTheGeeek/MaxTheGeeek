@@ -141,15 +141,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MaxTheGeeek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxTheGeeek&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxTheGeeek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxTheGeeek&theme=tokyonight" alt="Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaxTheGeeek&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxTheGeeek&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaxTheGeeek&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </p>
 
 ---
