@@ -64,30 +64,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
-
-### 💻 Technology Expertise
-
-<div align="center">
-
-**Frontend Development** (70% of work)
-
-| Technology | Proficiency | Projects | Commits |
-|:-----------|:------------|:--------:|:-------:|
-| TypeScript/JavaScript | ![](https://progress-bar.dev/95/?title=Expert&width=120&color=007ACC) | 30+ | 1,750+ |
-| React/Next.js | ![](https://progress-bar.dev/95/?title=Expert&width=120&color=61DAFB) | 25+ | 1,400+ |
-| Vue/Nuxt | ![](https://progress-bar.dev/85/?title=Advanced&width=120&color=4FC08D) | 8+ | 350+ |
-| Angular | ![](https://progress-bar.dev/70/?title=Proficient&width=120&color=DD0031) | 3+ | 200+ |
-
-**Backend Development** (30% of work)
-
-| Technology | Proficiency | Projects | Commits |
-|:-----------|:------------|:--------:|:-------:|
-| Node.js/NestJS | ![](https://progress-bar.dev/90/?title=Expert&width=120&color=339933) | 15+ | 800+ |
-| C#/.NET | ![](https://progress-bar.dev/85/?title=Advanced&width=120&color=512BD4) | 10+ | 700+ |
-| Go/Gin | ![](https://progress-bar.dev/80/?title=Advanced&width=120&color=00ADD8) | 5+ | 500+ |
-
-</div>
 
 
 ---
@@ -140,23 +116,6 @@
 
 ---
 
-## 📊 GitHub & Career Analytics
-
-<div align="center">
-
-| ⏱️ **Coding Since** | 💼 **Total Projects** | 🚀 **Commits** | ⭐ **Stars Earned** |
-|:-------------------:|:---------------------:|:--------------:|:-------------------:|
-| **2019**<br/><sub>6+ Years</sub> | **50+**<br/><sub>Public & Private</sub> | **3,500+**<br/><sub>Personal + Professional</sub> | **150+**<br/><sub>Across Repositories</sub> |
-
-</div>
-
-
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaxTheGeeek&theme=tokyonight&utcOffset=1" alt="Productive Time" />
-</p>
-
----
-
 ## 📊 Professional Analytics
 
 <div align="center">
@@ -176,12 +135,6 @@
 </div>
 
 --- 
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxTheGeeek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🌍 Languages
 
