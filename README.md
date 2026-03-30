@@ -74,7 +74,7 @@
 
 | Project | Description | Technologies | Status |
 |:--------|:------------|:-------------|:------:|
-| 🎥 **[FindDev](https://finddev.dev)** | Video-first developer recruitment marketplace | `Angular` `C#/.NET` | ![](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square) |
+| 🎥 **[DocShow.org](https://docshow.org)** | View, Share, and Secure Your Documents Instantly | `Angular` `C#/.NET` | ![](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square) |
 | ⚡ **[MotionFlow](https://motionflow.xyz)** | Serverless analytics & data platform | `Next.js` `TypeScript` `Go` | ![](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square) |
 | 🤖 **[CVPilot](https://cover-letter.work)** | AI-powered cover letter generator | `Next.js` `TypeScript` `C#/.NET` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
 | 🌐 **[Rocklogic](https://rocklogic.at)** | Corporate website with CMS integration | `Next.js` `Mantine` `Contentful` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
