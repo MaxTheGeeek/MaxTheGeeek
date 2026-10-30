@@ -1,157 +1,80 @@
-<h1 align="center">👨‍💻 Max Behzadi</h1>
+<h1 align="center">Max Behzadi</h1>
+<h3 align="center">Full-Stack Software Engineer | .NET & Angular | Applied AI & Agentic Systems</h3><p align="center">Based in Austria · Building practical software and exploring AI-powered business solutions through <strong>MaxerLabs</strong></p><p align="center">
+<a href="https://maxbehzadi.site">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/maxii">LinkedIn</a> ·
+<a href="https://github.com/MaxTheGeeek">GitHub</a> ·
+<a href="https://t.me/MaxBhzd">Telegram</a>
+</p>About me
+I'm a full-stack software engineer with 8+ years of software development experience, working across web, desktop, mobile, APIs, and internal business applications.
 
-<h3 align="center">Full-Stack Developer | Frontend & Web Specialist</h3>
+My professional background includes TypeScript, React, Vue, Next.js, Node.js, C#/.NET, and Angular, with work ranging from production user interfaces and backend integrations to Ethereum infrastructure tools and server-management systems.
 
-<p align="center">
-📍 Vienna, Austria 🇦🇹 • 🚀 Building innovative solutions at <strong>Rocklogic GmbH</strong>
-</p>
+I'm extending that engineering background into Applied AI and Agentic AI: building and evaluating LLM-powered applications, retrieval-augmented systems, chatbots, and business automations. My goal is to bring useful AI features into reliable, maintainable software—not just demos.
 
-<p align="center">
-<a href="https://www.maxbehzadi.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/max-behzadi-1857b7193"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://t.me/MaxBhzd"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
-
----
-
-## 🎯 About Me
-
-- 🔧 Currently building **scalable, high-performance web applications** with modern technologies
-- ☁️ Exploring **Cloud Architecture**, **Serverless Computing**, and **Distributed Systems**
-- 💡 Passionate about **clean architecture**, **performance-first UI**, and **modern DevOps pipelines**
-- 💬 Open to collaboration on **open-source**, **cloud**, and **Web Applications** projects
-
----
-
-## 🛠️ Technology Stack
-
-### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### 🎨 Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### ⚙️ Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 📱 Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+Current focus: C#/.NET + Angular engineering, Python/FastAPI for AI backends, and practical AI applications.
+Applied AI & Agentic Engineering
+Area	What I'm working on
+LLM applications	Model APIs, structured outputs, prompt design, evaluation and application integration
+RAG & semantic search	Embeddings, document ingestion, retrieval pipelines and vector databases including Qdrant
+AI agents	Tool calling, MCP, orchestration, agent workflows and LangGraph experiments
+AI chatbots	Exploring customizable chatbots with knowledge bases, retrieval and business integrations
+Automation	Building n8n workflows for business operations and AI-assisted processes
+AI infrastructure	Local Ollama models, Dockerized services and hosted model APIs through OpenRouter and model-routing tools
 
 
+These are active engineering and learning projects, not claims that every component is production-ready or commercially deployed.
 
----
+Current AI projects & labs
+- AI Engineering Lab — hands-on experiments in Python, LLM application development, tool use, RAG, agent patterns, evaluation and deployment.
+- AI Chatbot Workshop — evaluating open-source chatbot platforms and developing a path toward customizable, retrieval-enabled customer support assistants.
+- n8n Automation Lab — practical workflows for marketing, customer support, sales and internal operations, with AI integration where useful.
+- Local AI Homelab — private development/test environment with Ollama, Qdrant, Docker, PostgreSQL and secured remote access. Used for experiments and validation, not for hosting customer workloads.
+Engineering toolkit
+Languages: TypeScript, JavaScript, C#, Python (actively developing), Dart; SQL
 
-## 🚀 Featured Projects
+Frontend: Angular, React, Next.js, Vue 3, Nuxt, RxJS, Tailwind CSS, Mantine, shadcn/ui
 
-<div align="center">
+Backend: ASP.NET Core, Web API, Entity Framework Core, LINQ, Node.js, NestJS, Express; FastAPI (actively developing)
 
-| Project | Description | Technologies | Status |
-|:--------|:------------|:-------------|:------:|
-| 🎥 **[DocShow.org](https://docshow.org)** | View, Share, and Secure Your Documents Instantly | `Angular` `C#/.NET` | ![](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square) |
-| ⚡ **[MotionFlow](https://motionflow.xyz)** | Serverless analytics & data platform | `Next.js` `TypeScript` `Go` | ![](https://img.shields.io/badge/MVP-In_Progress-yellow?style=flat-square) |
-| 🤖 **[CVPilot](https://cover-letter.work)** | AI-powered cover letter generator | `Next.js` `TypeScript` `C#/.NET` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
-| 🌐 **[Rocklogic](https://rocklogic.at)** | Corporate website with CMS integration | `Next.js` `Mantine` `Contentful` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
-| 🔗 **[StereumLabs](https://www.stereumlabs.com)** | Ethereum client analytics platform | `Next.js` `TypeScript` `NestJS` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
-| 🎮 **[Stereum](https://www.stereum.com)** | Blockchain node deployment platform | `Next.js` `TypeScript` `Mantine` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
-| 📊 **[StereumPlus](https://www.stereumplus.com)** | Enterprise server monitoring solution | `Next.js` `Mantine` `NestJS` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
-| 💎 **[Fungl](https://www.fungl.com)** | Secure Ethereum staking vault | `Next.js` `Shadcn UI` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
-| 💻 **Stereum Launcher** | Desktop blockchain node manager | `Vue.js` `Electron.js` `Socket.io` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
-| 📱 **Stereum Monitor** | Mobile monitoring application | `Flutter` `Dart` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
-| 🔐 **StereumLabs Admin** | Analytics management dashboard | `React` `NestJS` `Ant Design` | ![](https://img.shields.io/badge/Internal-Tool-blue?style=flat-square) |
-| 🛠️ **StereumPlus Admin** | Operations control panel | `React` `NestJS` `Ant Design` | ![](https://img.shields.io/badge/Internal-Tool-blue?style=flat-square) |
-| ⚽ **[Persian Score](https://persianscore.com)** | Live football scores & statistics | `Next.js` `Shadcn UI` `Supabase` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
-| 🛒 **[IRMall](https://www.irmall.ir)** | Persian e-commerce marketplace | `React` `Node.js` `CSS` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
-| 💬 **ChitChat** | Real-time video conferencing | `WebRTC` `Node.js` `Socket.io` | ![](https://img.shields.io/badge/Internal-Tool-blue?style=flat-square) |
-| 🏠 **HomA** | Smart home automation system | `JavaScript` `Bootstrap` `Laravel` | ![](https://img.shields.io/badge/Live-Production-green?style=flat-square) |
-| 🍽️ **TastyDay** | Diet food delivery platform | `jQuery` `JavaScript` `CSS` | ![](https://img.shields.io/badge/MVP-Completed-green?style=flat-square) |
+Desktop & mobile: Electron, WPF, Flutter
 
-</div>
+Data: PostgreSQL, SQL Server, MySQL, Redis, Qdrant
 
----
+AI / automation: Ollama, OpenRouter, LLM APIs, embeddings, RAG, MCP, n8n; LangGraph (learning and experiments)
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://img.shields.io/badge/GitHub_Since-2019-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Since" />
-<img src="https://img.shields.io/badge/Total_Repos-50+-181717?style=for-the-badge&logo=github&logoColor=white" alt="Total Repos" />
-<img src="https://img.shields.io/badge/Total_Commits-2000+-00ADD8?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits" />
-<img src="https://img.shields.io/badge/Stars_Earned-100+-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
-</p>
-
-### 💻 Most Used Languages
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-45%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C%23-15%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Go-10%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-</p>
+DevOps & tools: Docker, GitHub Actions, Git, Linux, Azure and AWS fundamentals, Tailscale; automated testing with xUnit, Jest and Playwright
+Selected projects
+Products & independent work
+Project	What it does	Stack / focus
+DocShow	Document viewing, sharing and access-control product; MVP in development	Angular, C#/.NET
+MotionFlow	Analytics and data-platform concept; MVP in development	Next.js, TypeScript, Go
+CVPilot	AI-assisted cover-letter generation application	Next.js, TypeScript, .NET
+Persian Score	Football scores and statistics application	Next.js, UI components, Supabase
 
 
----
-
-## 📊 Professional Analytics
-
-<div align="center">
-
-### 🎯 Career Overview (2019 - Present)
-
-| Metric | Count | Details |
-|:------:|:-----:|:-------:|
-| 📅 **Years Coding** | 6+ | Since 2019 |
-| 💼 **Projects Delivered** | 50+ | Personal + Professional |
-| 🚀 **Total Commits** | 3,500+ | Across all repositories |
-| 🏢 **Production Apps** | 15+ | Live and maintained |
-| ⭐ **GitHub Stars** | 150+ | Community recognition |
-| 👥 **Team Projects** | 20+ | Collaborative work |
+Professional engineering contributions
+Project	Selected contributions	Technologies
+Stereum Launcher	Cross-platform desktop experience for Ethereum node setup and monitoring; interactive UI, application state and real-time integrations	Vue 3, TypeScript, Electron, WebSockets
+Stereum Monitor	Mobile monitoring experience with alerts, QR integration and status views	Flutter, Dart
+StereumPlus	Server lifecycle workflows, authentication, billing integrations and infrastructure metrics	.NET/Angular and TypeScript services across project work
+StereumLabs	Web application and Ethereum infrastructure interfaces	Next.js, TypeScript
+RockLogic	Web interfaces and CMS integrations	Next.js, Mantine, Contentful
+Internal .NET business tools	API development, access control, database integration and legacy desktop modernization	C#, ASP.NET Core, Angular, WPF, SQL
+Internal dashboards & admin tools	Operational interfaces, API integrations and management workflows	React, TypeScript, Node.js
 
 
-</div>
+Some professional projects are proprietary. Links lead to product or company websites rather than necessarily to public source code. Contributions describe my work on teams, not sole ownership of entire products.
+What I'm building toward
+My development path connects three disciplines:
+1. Strong application foundations — maintainable .NET/Angular and TypeScript systems, API design, databases, testing and deployment.
+2. Applied AI engineering — grounded LLM applications, RAG, evaluation, safety, observability and production-oriented integrations.
+3. Agentic workflows and business solutions — agents with tools, human oversight, n8n automation and reusable AI-enabled applications.
+I am particularly interested in turning real business problems into dependable software products, including knowledge assistants, customer-service workflows and internal automation.
+Collaboration & opportunities
+I'm open to full-stack software engineering roles, particularly C#/.NET + Angular (and TypeScript/React), as well as opportunities involving Applied AI development and AI-enabled applications.
 
---- 
+Based in Austria; interested in Austria/EU and suitable remote opportunities.
 
-## 🌍 Languages
-
-🇬🇧 **English** - Fluent  
-🇩🇪 **German** - Proficient  
-🇮🇷 **Persian** - Native
-
----
-
-<p align="center">
-<i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House
-</p>
-
-<p align="center">
-<strong>Let's build something amazing together!</strong>
-</p>
-
-<p align="center">
-⭐️ From <a href="https://github.com/MaxTheGeeek">MaxTheGeeek</a>
-</p>
+Languages: Persian (native) · English (C1) · German (B2)
+<p align="center"><strong>Engineering foundations. Practical AI. Useful products.</strong><br/>
+<a href="https://maxbehzadi.site">Portfolio</a> · <a href="https://www.linkedin.com/in/maxii">Connect on LinkedIn</a></p>
